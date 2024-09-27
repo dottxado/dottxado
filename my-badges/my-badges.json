@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/aa2f0148b097b786eb6601617b2e19b18966b6a1\"><strong>a</strong>a2f0148b097b786eb6601617b2e19b18966b6a1</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 15 times)\n2. update (used 12 times)\n3. for (used 10 times)\n4. to (used 10 times)\n5. the (used 9 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dottxado/action-wordpress-svn-tag-cleaner/commit/39f8ccdab252ae54903fb0cc75f073b7fd5c6de9\">39f8ccd</a>: Fix for svn certificate not trusted\n- <a href=\"https://github.com/dottxado/action-wordpress-svn-tag-cleaner/commit/9ef1c278c47193bd161ad05b26a53414b90ca25b\">9ef1c27</a>: Fix for svn certificate not trusted\n- <a href=\"https://github.com/dottxado/action-wordpress-svn-tag-cleaner/commit/33f7e91a0ccdab96897b52b279733becc929d7c8\">33f7e91</a>: Fix for svn certificate not trusted\n- <a href=\"https://github.com/dottxado/action-wordpress-svn-tag-cleaner/commit/0d7d007296e46ac8f5a60560e7786cdf3b5b9df0\">0d7d007</a>: Fix for bash syntax",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/f69e08c0a7e9ab785f20fa0869890288011a63ec\">f69e08c</a>: Fix for deploy system\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/1fdfdb74235d1a7edba07914309a6b939bed15d5\">1fdfdb7</a>: Fix for composer\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/5403a876f21828cdd4678b20778a40e1338fe81e\">5403a87</a>: Fix for composer",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/82f5c94a785984f0df9912b9ebc2f307625930f2\">82f5c94</a>: fix: add ignored file\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/2e13a2e2f191fd69b2a8240abb0c45b9a0f7d433\">2e13a2e</a>: fix: update version\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/7e6dec46894123849dbd584f6ab8f951895f9b67\">7e6dec4</a>: fix: update version\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/9c95f682dee322baf10d8a090bb6d0230eedaec8\">9c95f68</a>: fix: update changelog\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/61241ff8be6f2a7301ea7926b4417fe5f29c1d07\">61241ff</a>: fix: update some links\n- <a href=\"https://github.com/dottxado/email-fields-for-woocommerce/commit/9391ddbaef58b2723bfdd9eed1eea9f3fb2457f7\">9391ddb</a>: fix: remove singleton class instance",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  }
+]
