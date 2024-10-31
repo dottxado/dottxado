@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/dottxado/email-fields-for-woocommerce/commit/1c80eb5760852f1d5785e0727a65588a72c20df5">1c80eb5</a>: chore: update version for WordPress repository (I always forget!)
+- <a href="https://github.com/dottxado/email-fields-for-woocommerce/commit/464ddbc23235090efd2efe4e84c751128a9f6a20">464ddbc</a>: chore: update tag for WordPress repository
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
